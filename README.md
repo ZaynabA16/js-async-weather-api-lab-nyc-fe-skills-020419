@@ -1,4 +1,3 @@
-
 # Visualizing Temperature
 
 ## Problem Statement
